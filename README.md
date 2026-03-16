@@ -1,7 +1,8 @@
 # KeetDhrishti
 
-## 🎥 YouTube Demo
-(Add YouTube video link here after upload)
+## 🎥 YouTube Demo link below 👇
+
+[![Watch the Demo](https://img.youtube.com/vi/ZHh3fgpLi74/maxresdefault.jpg)](https://youtu.be/ZHh3fgpLi74)
 
 ## Project Description
 KeetDhrishti is an AI-powered insect identification system that uses Convolutional Neural Networks (CNN) and OpenAI integration to classify insects and provide detailed information about them.
